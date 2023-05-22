@@ -2,7 +2,7 @@ Anyone who’s hiked through a wooded area has likely seen bits of moss growing 
 
 ## A Bit About Moss
 
-[Mosses are bryophytes](https://www.kew.org/read-and-watch/moss#:~:text=They're%2520ancient%2520plants,bryophytes)%2520in%2520the%2520plant%2520kingdom), which are classified as non-vascular plants that reproduce through spores. Moss features leaves and stems but lacks roots, flowers, and seeds found on most other plants. Instead, they feature absorbent rhizoids, sucking up moisture and nutrients from nearby water sources.
+<a target="_blank" href="https://www.kew.org/read-and-watch/moss#:~:text=They're%2520ancient%2520plants,bryophytes)%2520in%2520the%2520plant%2520kingdom">Mosses are bryophytes</a>, which are classified as non-vascular plants that reproduce through spores. Moss features leaves and stems but lacks roots, flowers, and seeds found on most other plants. Instead, they feature absorbent rhizoids, sucking up moisture and nutrients from nearby water sources.
 
 These soft, cushiony layers have existed for over 450 million years and comprise thousands of species. Moss grows all over the world in conditions other plants would find uninhabitable, surviving temperatures ranging from 210 to -457 degrees Fahrenheit. They alter the temperature of the soil, offering protection and shade in hot climates and keeping the soil cool in cold areas.
 
